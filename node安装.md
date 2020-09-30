@@ -14,3 +14,5 @@
 立即生效
 
 source /etc/profile
+
+[关于报错](https://medium.com/@akingsukh/how-to-solve-glibcxx-3-4-14-not-found-on-centos6-738d048b713f)
